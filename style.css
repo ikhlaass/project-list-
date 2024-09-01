@@ -230,6 +230,11 @@ body {
   color: white;
 }
 
+.pricing-button.is-featured:hover {
+  background-color: #e1f1ff;
+  color: #529ffa;
+}
+
 @media (min-width: 900px) {
   .panel {
     display: flex;
